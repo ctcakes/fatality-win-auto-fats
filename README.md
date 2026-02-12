@@ -17,16 +17,16 @@ fats 自动发货 for fatality.win
    - 安装Chrome插件(Chrome-管理扩展程序-右上角开发者模式打开-加载未打包的扩展程序-找到此目录里面的new_plugin_chrome文件夹-确定
   ## 启动
   ### 后端
-  下载好Chrome，登录上你的FA账号
-  ⚠️然后修改main.py,refund.py,get_epay_sign.py里面设置好你的易支付商户ID和秘钥,本系统只支持易支付的V1接口。
-  然后在后端文件夹执行
+   - 下载好Chrome，登录上你的FA账号
+   - ⚠️然后修改main.py,refund.py,get_epay_sign.py里面设置好你的易支付商户ID和秘钥,本系统只支持易支付的V1接口。
+   - 然后在后端文件夹执行
   ```bash
   python main.py
   ```
-  然后启动/重启 Chrome插件，让他重新尝试连接
-  如果连接成功，Python端会显示"x.x.x.x:xxxx 连接"
-  然后将Winserver的Chrome点成焦点
-  放那挂机 等订单即可
+   - 然后启动/重启 Chrome插件，让他重新尝试连接
+   - 如果连接成功，Python端会显示"x.x.x.x:xxxx 连接"
+   - 然后将Winserver的Chrome点成焦点\[必须\]
+   - 放那挂机 等订单即可
   ### 前端
    - ⚠️前端可以不和后端在同一台服务器搭建，前端建议使用Linux服务器
    - Winserver建站性能很差
