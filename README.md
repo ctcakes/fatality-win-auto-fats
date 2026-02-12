@@ -8,6 +8,7 @@ fats 自动发货 for fatality.win
    - Winserver 建议10+
    - FA账号
    - 梯子(如果你觉得服务器网络可以访问fatality.win可以不用)
+   - 注意：FA账号必须有订阅 否则无法转账FAT
   ## 安装
    - 下载仓库源码，进入文件夹
    - 安装Python 推荐3.12.x，其他版本有可能出现不可预知的错误（亲身经历。。）
