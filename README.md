@@ -47,8 +47,8 @@ fats 自动发货 for fatality.win
      - 项目目录，点击右边的文件夹图标选择你刚才放前端的路径
      - 名称，自己填
      - 启动选项 如果你选择对了目录就会有选项，我们选择最下面的preview
-      <img width="731" height="522" alt="image" src="https://github.com/user-attachments/assets/3eed7a17-1e77-4fc3-ae9b-1aee86e35d02" />
-     - node版本自动选择的
+     - <img width="731" height="522" alt="image" src="https://github.com/user-attachments/assets/3eed7a17-1e77-4fc3-ae9b-1aee86e35d02" />
+     - node版本自动选择
      - 包管理器，如果你不知道这是什么选npm就好
      - 点击确定，然后等一会就创建好了
    - 过一会项目创建好了，点击设置
@@ -60,6 +60,7 @@ fats 自动发货 for fatality.win
          - 验证方式 文件验证即可
          - 点击确定，自动申请，申请成功会自动配置好
        - 此时如果项目正常运行中，就可以访问测试了
+      - <img width="818" height="735" alt="image" src="https://github.com/user-attachments/assets/e2ab2c02-5c65-48cd-95e9-35c2879e4209" />
   ### 手动部署
   打开bash/cmd到前端目录
   ```bash
@@ -79,4 +80,6 @@ fats 自动发货 for fatality.win
 ```
 然后在Nginx设置好绑定域名,就可以访问了
 # 一些话
-Pilot1337 操你妈Pilot1337 操你妈Pilot1337 操你妈
+ - Pilot1337 操你妈
+ - Pilot1337 操你妈
+ - Pilot1337 操你妈
