@@ -5,9 +5,6 @@ fats 自动发货 for fatality.win
  - 用户购买成功到发货成功不到5秒
  - 里面有些我服务器或者易支付的秘钥什么的没删干净，就这样吧
  - 搭建成果站:[hvhgod.onl](https://hvhgod.onl)
-# Pilot1337 操你妈
-# Pilot1337 操你妈
-# Pilot1337 操你妈
 # 用法
   ## 必须
    - Winserver 建议10+
@@ -87,6 +84,3 @@ fats 自动发货 for fatality.win
 # 一些话
  - 如果有任何搭建 技术方面的问题 欢迎DC咨询ℹ️ctint_ / 📫ctcake@outlook.com / 🐧316915824
  - 加群玩🐧635505571
- - Pilot1337 操你妈
- - Pilot1337 操你妈
- - Pilot1337 操你妈
