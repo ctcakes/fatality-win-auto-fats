@@ -11,8 +11,8 @@ from urllib.parse import quote
 
 # 配置常量
 MERCHANT_ID = "1199"
-MERCHANT_KEY = "Y3xLrlLRRldGZBf83bXw8ytgXRv88yfr"
-API_BASE_URL = "https://69fk2.cn"
+MERCHANT_KEY = ""
+API_BASE_URL = "https://cn"
 
 # 支付方式枚举
 class PayType:
