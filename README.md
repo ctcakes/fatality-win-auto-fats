@@ -80,6 +80,8 @@ fats 自动发货 for fatality.win
 ```
 然后在Nginx设置好绑定域名,就可以访问了
 # 一些话
+ - 如果有任何搭建 技术方面的问题 欢迎DC咨询ℹ️ctint_ / 📫ctcake@outlook.com / 🐧316915824
+ - 加群玩🐧635505571
  - Pilot1337 操你妈
  - Pilot1337 操你妈
  - Pilot1337 操你妈
