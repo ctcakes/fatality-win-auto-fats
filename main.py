@@ -17,11 +17,11 @@ ip_last_request = {}
 ORDERS_FILE = "orders.json"
 #测试一下push webhook111222
 # ===== 易支付系统配置 =====
-# 易支付支付平台配置（https://69fk2.cn/）
+# 易支付支付平台配置（https://.cn/）
 MERCHANT_ID = "1199"  # 商户ID
-MERCHANT_KEY = "Y3xLrlLRRldGZBf83bXw8ytgXRv88yfr"  # 商户密钥
-API_URL = "https://69fk2.cn"  # API基础地址
-CALLBACK_URL = "http://202.189.7.62:20112/api/payment/callback"  # 回调地址
+MERCHANT_KEY = ""  # 商户密钥
+API_URL = "https://.cn"  # API基础地址
+CALLBACK_URL = "http:///api/payment/callback"  # 回调地址
 
 
 PAY_TMP_LIST = {}
