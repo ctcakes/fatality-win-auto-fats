@@ -4,6 +4,7 @@ fats 自动发货 for fatality.win
  - 浏览器扩展进行网页模拟点击实现自动发货
  - 用户购买成功到发货成功不到5秒
  - 里面有些我服务器或者易支付的秘钥什么的没删干净，就这样吧
+ - 搭建成果站:[hvhgod.onl](https://hvhgod.onl)
 # Pilot1337 操你妈
 # Pilot1337 操你妈
 # Pilot1337 操你妈
