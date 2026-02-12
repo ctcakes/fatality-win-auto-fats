@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Fatality New Plugin",
+  "version": "2.0",
+  "permissions": ["tabs", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": ["http://localhost/*", "https://fatality.win/*"]
+}
